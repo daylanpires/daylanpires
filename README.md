@@ -10,7 +10,7 @@
 
   - 🌱 I’m currently a student on the FullStack Development course at Universidade Estácio de Sá 
 
-  - 🔭 I’m currently working on team management, and I am looking for my first job opportunity on Software Development.
+  - 🔭 I’m working on team management, and looking for my first job opportunity on Software Development.
 </p>
 
 <!-- Dropdown -->
