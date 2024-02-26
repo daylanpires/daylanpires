@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Daylan! 
+  Hey dev, Daylan here! 🖖
 
   - 🌱 I’m currently a student on the FullStack Development course at Universidade Estácio de Sá 
 
