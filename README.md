@@ -31,10 +31,11 @@
 ![daylanpires GitHub stats](https://github-readme-stats.vercel.app/api?username=daylanpires&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daylanpires&layout=donut&show_icons=true&theme=dracula)](https://github.com/daylanpires/github-readme-stats)
 
-  <!-- Skills: Tools & Frameworks -->
+<div align="center">
+  <img align="left" height="250" alt="coding-time" src="https://github.com/daylanpires/imagens/assets/126516180/8c363e1d-121c-41ac-8f42-bc1f87fad8aa">
+  
+</div><!-- Skills: Tools & Frameworks -->
  <div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://github.com/daylanpires/imagens/assets/126516180/8c363e1d-121c-41ac-8f42-bc1f87fad8aa">
     <h1 align="center">Programming Languages</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
