@@ -34,6 +34,7 @@
 <div align="center">
   <img align="left" height="250" alt="coding-time" src="https://github.com/daylanpires/imagens/assets/126516180/8c363e1d-121c-41ac-8f42-bc1f87fad8aa">
   
+<br>
 </div><!-- Skills: Tools & Frameworks -->
  <div  align="center"> 
     <h1 align="center">Programming/markup Languages</h1>
