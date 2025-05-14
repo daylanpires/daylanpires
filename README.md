@@ -27,7 +27,6 @@
 
 <!-- GithubStats -->
 
-![daylanpires GitHub stats](https://github-readme-stats.vercel.app/api?username=daylanpires&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daylanpires&layout=donut&show_icons=true&theme=dracula)](https://github.com/daylanpires/github-readme-stats)
 
 <div align="center">
