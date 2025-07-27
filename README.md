@@ -16,9 +16,9 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm 28 years old, I currently live in Brazil. I am in a career transition, currently working with people management where I have acquired important skills in communication, problem solving, creativity and teamwork.
+  - 💬 I'm 28 years old, I currently live in Brazil. I'm a professional with 5 years of experience in people management, where I developed key skills such as communication, problem-solving, creativity, and teamwork.
 
-  - ⚡ I like reading, and I believe that seeking to learn new things always contributes to my personal and professional growth. In my free time I like going to the beach and being in contact with nature, I also like video games and solving problems.
+  - ⚡ I like to read, and I believe that seeking to learn new things always contributes to my personal and professional growth. In my free time I like going to the beach and being in contact with nature, I also like video games and solving problems.
 </details>
 
 <!-- Links -->
