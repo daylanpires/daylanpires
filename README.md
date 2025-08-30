@@ -1,24 +1,18 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+## Hey you, Day here! 👋
 
-<!-- Presentation -->
-<p>
-  <h2>Hey dev, Daylan here! 🖖</h2>
+- 🌱 Full-Stack Development student, passionate about technology and curious about the universe.  
+- 🚀 Always learning, building, and exploring new ideas to create meaningful solutions.
 
-  - 🌱 I’m FullStack Development student
-  - 🔭 Looking for my first job opportunity on Software Development.
-</p>
+---
 
-<!-- Dropdown -->
+### 👨‍💻 More About Me
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>Click to expand</summary>
 
-  - 💬 I'm 28 years old, I currently live in Brazil. I'm a professional with 5 years of experience in people management, where I developed key skills such as communication, problem-solving, creativity, and teamwork.
-
-  - ⚡ I like to read, and I believe that seeking to learn new things always contributes to my personal and professional growth. In my free time I like going to the beach and being in contact with nature, I also like video games and solving problems.
+- 💬 28 years old, based in Brazil.  
+- 🧩 5 years of experience in people management, developing skills in communication, problem-solving, creativity, and teamwork.  
+- 📚 Passionate about learning and self-improvement.  
+- 🌊 In my free time, I love the beach, nature, video games, and tackling challenging problems.
 </details>
 
 <!-- Links -->
